@@ -1,0 +1,238 @@
+id: IE92EEEFF
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:48:58.213495'
+last_modified: '2022-05-30T22:48:58.213501'
+parser: null
+source_metadata:
+  title: Patrul Rinpoche Series
+  language: de
+  description: 'Texts by and about the great Rimé master, Dza Patrul Orgyen Jigme
+    Chökyi Wangpo (rdza dpal sprul o rgyan ''jigs med chos kyi dbang po, 1808–1887):'
+  volume:
+    fCA90:
+      title: Advice for Alak Dongak
+      base_file: fCA90.txt
+      order: 1
+      parent: Advice
+    fBB20:
+      title: Advice to Lama Rigdzin Gyatso on Understanding the Influence of Companions
+        and Avoiding and Adopting Them Accordingly
+      base_file: fBB20.txt
+      order: 2
+      parent: Advice
+    fC958:
+      title: Nine Considerations and Criteria for Benefiting Beings
+      base_file: fC958.txt
+      order: 3
+      parent: Advice
+    fEDB1:
+      title: The Precious Treasury of Written Instruction Transmitted One-to-One
+      base_file: fEDB1.txt
+      order: 4
+      parent: Advice
+    f63B3:
+      title: Yearning for Mountain Solitude
+      base_file: f63B3.txt
+      order: 5
+      parent: Advice
+    fBD5D:
+      title: Aspiration Prayer
+      base_file: fBD5D.txt
+      order: 6
+      parent: Aspiration Prayers
+    f4636:
+      title: Aspiration to Generate Bodhicitta, Utterly Pure and Supreme
+      base_file: f4636.txt
+      order: 7
+      parent: Aspiration Prayers
+    f3DFD:
+      title: Biography of Patrul Rinpoche
+      base_file: f3DFD.txt
+      order: 8
+      parent: Biography
+    f2D7C:
+      title: Prayer to the Lineage of the Bodhicaryāvatāra
+      base_file: f2D7C.txt
+      order: 9
+      parent: Bodhicaryāvatāra
+    f104C:
+      title: 'The Brightly Shining Sun: A Step-by-Step Guide to Meditating on the
+        Bodhicaryāvatāra'
+      base_file: f104C.txt
+      order: 10
+      parent: Bodhicaryāvatāra
+    f44AF:
+      title: A Brief Guide to the Stages and Paths of the Bodhisattvas
+      base_file: f44AF.txt
+      order: 11
+      parent: Buddhist Philosophy & Teachings
+    f3AC4:
+      title: A Brief Introduction to the Bardos
+      base_file: f3AC4.txt
+      order: 12
+      parent: Buddhist Philosophy & Teachings
+    f142C:
+      title: An Essential Instruction on Refuge and Bodhichitta
+      base_file: f142C.txt
+      order: 13
+      parent: Buddhist Philosophy & Teachings
+    f7FA0:
+      title: An Instruction on the View of the Mahāyāna – Clarifying the Two Truths
+      base_file: f7FA0.txt
+      order: 14
+      parent: Buddhist Philosophy & Teachings
+    f90F9:
+      title: Preliminary Points to be Explained When Teaching the Buddha's Word or
+        the Treatises
+      base_file: f90F9.txt
+      order: 15
+      parent: Buddhist Philosophy & Teachings
+    f4E94:
+      title: 'The Concentrated Seed: How to Distinguish the Tenets of Non-Buddhist
+        and Buddhist Schools'
+      base_file: f4E94.txt
+      order: 16
+      parent: Buddhist Philosophy & Teachings
+    f9402:
+      title: Advice on How to Put the Meaning of the Natural Great Perfection into
+        Practice
+      base_file: f9402.txt
+      order: 17
+      parent: Dzogchen
+    f6F09:
+      title: 'Self-Liberating Meditation: A Profound Method for Attaining Enlightenment
+        according to the Ultimate Great Perfection'
+      base_file: f6F09.txt
+      order: 18
+      parent: Dzogchen
+    f5A7A:
+      title: Brief Guide to the Stages of Visualization for the Ngöndro Practice
+      base_file: f5A7A.txt
+      order: 19
+      parent: Ngöndro
+    fE66B:
+      title: 'A Garland of Fresh Utpala Flowers: A Brief Synopsis of the Treasury
+        of Precious Qualities, A Treatise of Pith Instructions'
+      base_file: fE66B.txt
+      order: 20
+      parent: Pedagogy
+    fB803:
+      title: 'Mirror of the Mind: Prologue to The Treasury of Precious Qualities'
+      base_file: fB803.txt
+      order: 21
+      parent: Pedagogy
+    f5999:
+      title: In Praise of Glorious Vajrasattva
+      base_file: f5999.txt
+      order: 22
+      parent: Praise
+    f96A9:
+      title: In Praise of Patrul Orgyen Jigme Chökyi Wangpo
+      base_file: f96A9.txt
+      order: 23
+      parent: Praise
+    f7933:
+      title: 'Excellent Explanation from the Scriptural Tradition: A Brief Guide to
+        the Stages of Meditating on the General Themes of the Ornament to the Prajñāpāramitā'
+      base_file: f7933.txt
+      order: 24
+      parent: Prajñāpāramitā
+    f1101:
+      title: 'Nectar of Lunar Crystal: A Prayer to Orgyen Chökyi Wangpo'
+      base_file: f1101.txt
+      order: 25
+      parent: Prayers
+    fF679:
+      title: Prayer to Chökyi Wangpo, the Bodhisattva and Tamer of Beings
+      base_file: fF679.txt
+      order: 26
+      parent: Prayers
+    fDAA8:
+      title: Prayer to Machik Labdrön
+      base_file: fDAA8.txt
+      order: 27
+      parent: Prayers
+    f899F:
+      title: Prayer to Orgyen Jigme Chökyi Wangpo
+      base_file: f899F.txt
+      order: 28
+      parent: Prayers
+    f3CDD:
+      title: Prayer to Śāntideva and Dam, Tsang and Jam of Katok
+      base_file: f3CDD.txt
+      order: 29
+      parent: Prayers
+    f688B:
+      title: Brief Windhorse Practice of Tārā
+      base_file: f688B.txt
+      order: 30
+      parent: Prayers & Practices
+    f8DDD:
+      title: Temple Dedication Prayer
+      base_file: f8DDD.txt
+      order: 31
+      parent: Prayers & Practices
+    f9203:
+      title: A Brief Mañjuśrī Sādhana
+      base_file: f9203.txt
+      order: 32
+      parent: Sādhanas
+    fCE1A:
+      title: The Method for Observing the Eight-Branched One-Day Vow
+      base_file: fCE1A.txt
+      order: 33
+      parent: Sojong
+    f4983:
+      title: The Special Teaching of the Wise and Glorious King – Commentary
+      base_file: f4983.txt
+      order: 34
+      parent: Special Teaching of the Wise and Glorious King
+    f68FB:
+      title: The Special Teaching of the Wise and Glorious King—Root Text
+      base_file: f68FB.txt
+      order: 35
+      parent: Special Teaching of the Wise and Glorious King
+    f93A9:
+      title: The Special Teaching of the Wise and Glorious King—Root Text (arranged
+        in Tibetan-English verses)
+      base_file: f93A9.txt
+      order: 36
+      parent: Special Teaching of the Wise and Glorious King
+    f8287:
+      title: A Topical Outline of the General Confession Spoken by the Five Great
+        Sages
+      base_file: f8287.txt
+      order: 37
+      parent: Topical Outlines
+    f1332:
+      title: The Way to Explain the King of All Aspiration Prayers, the Secret Vajra
+        Knot
+      base_file: f1332.txt
+      order: 38
+      parent: Topical Outlines
+    fE6EC:
+      title: Topical Outline of the Prayer That Swiftly Fulfils All Wishes (Sampa
+        Nyur Drupma)
+      base_file: fE6EC.txt
+      order: 39
+      parent: Topical Outlines
+    f2116:
+      title: 'Transference: Enlightenment Without Meditation (Compilation)'
+      base_file: f2116.txt
+      order: 40
+      parent: Transference (Phowa)
+    f6156:
+      title: The Ritual of the Bodhisattva Vow According to the Tradition of Patrul
+        Rinpoche
+      base_file: f6156.txt
+      order: 41
+      parent: Vows & Commitments
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
